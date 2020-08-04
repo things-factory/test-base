@@ -1,0 +1,1 @@
+export const UPDATE_TEST_BASE = 'UPDATE_TEST_BASE'
